@@ -11,8 +11,8 @@ import UIKit
 class ViewController: UIViewController {
     @IBOutlet weak var numberLabel: UILabel!
     var number: Int = 0
-    //    var number2: Int!
-    //    var number3: Int?
+    var number2: Int!
+    var number3: Int?
 
     override func viewDidLoad() {
         super.viewDidLoad()
